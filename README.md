@@ -107,4 +107,3 @@ RPROMPT='%{$fg[yellow]%}$(rbenv version-name)%{$reset_color%}%'
 ```
 
 ### That's it!
-0
