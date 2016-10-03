@@ -86,6 +86,16 @@ eval `dircolors ~/.solarized/dircolors.ansi-dark`
 
 > Restart Terminator and you're done!
 
+### Portuguese Keyboard
+
+	* Keyboard
+	* ABNT2 Keyboard
+  ```console
+		setxkbmap -model abnt2 -layout br
+  ```
+
+
+
 ### Ruby developer __(optional)__
 
 ####  Plugins
