@@ -86,7 +86,7 @@ eval `dircolors ~/.solarized/dircolors.ansi-dark`
 
 > Restart Terminator and you're done!
 
-### Portuguese Keyboard
+## Portuguese Keyboard
 
 	* Keyboard
 	* ABNT2 Keyboard
