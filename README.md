@@ -63,6 +63,7 @@ sudo apt-get install dconf-cli
 ```
 
 ```bash
+mkdir -p ~/.solarized
 git clone git://github.com/sigurdga/gnome-terminal-colors-solarized.git ~/.solarized
 cd ~/.solarized
 ./install.sh
